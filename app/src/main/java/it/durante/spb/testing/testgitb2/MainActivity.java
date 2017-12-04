@@ -12,7 +12,7 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
 
 
-    // nuova FIX rel 1.0.2
+    // nuova FIX rel 1.0.3
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
